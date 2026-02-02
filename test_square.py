@@ -9,4 +9,4 @@ def test_square_num():
 def test_square_num2():
     a = 4
     res = square_num(4)
-    assert res == 16
+    assert res == 16.0
